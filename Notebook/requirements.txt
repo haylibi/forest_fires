@@ -1,0 +1,13 @@
+tqdm
+numpy 
+pandas 
+seaborn 
+xgboost
+meteostat
+sklearn
+scipy
+hyperopt
+matplotlib
+kneed
+yellowbrick
+lightgbm
